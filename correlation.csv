@@ -1,6 +1,6 @@
-﻿,Column 1,Column 2,Column 3,Column 4,Column 5
-Column 1,1,,,,
-Column 2,0.404142193,1,,,
-Column 3,-0.89667531,-0.437460161,1,,
-Column 4,-0.911528984,-0.406526826,0.798974889,1,
-Column 5,0.963731343,0.351424896,-0.848037791,-0.900371286,1
+﻿,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
+Supplier_Lead_Time,1,,,,
+Inventory_Levels,0.404142193,1,,,
+Order_Frequency,-0.89667531,-0.437460161,1,,
+Delivery_Performance,-0.911528984,-0.406526826,0.798974889,1,
+Cost_Per_Unit,0.963731343,0.351424896,-0.848037791,-0.900371286,1
